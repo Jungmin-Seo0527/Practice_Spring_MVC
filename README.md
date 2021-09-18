@@ -73,3 +73,7 @@ MVC 패턴은 지금까지 학습한 것 처럼 하나의 서블릿이나, JSP�
 
 여기서 Controller의 비즈니스 로직도 분리해서 서비스 계층을 만든 구조를 MVC2 패턴이라고 한다.
 
+### MVC 한계
+
+[MVC 한계 - Front Controller의 필요성](https://github.com/Jungmin-Seo0527/Inflearn_SpringMVC/blob/master/til/3.%20%EC%84%9C%EB%B8%94%EB%A6%BF%2C%20JSP%2C%20MVC%20%ED%8C%A8%ED%84%B4.md)
+
