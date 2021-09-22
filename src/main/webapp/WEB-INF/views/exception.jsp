@@ -4,8 +4,8 @@
  <meta charset="UTF-8">
 </head>
 <body>
-실패!!!!!!!!!!!!!!!!<br>
-404 Not Found ㅠㅠ
+404 Not Found<br>
+요청하진 페이지를 불러올 수 없습니다.<br>
 <a href="/index.html">메인</a>
 </body>
 </html>
